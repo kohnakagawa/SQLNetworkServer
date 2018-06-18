@@ -1,0 +1,9 @@
+[package]
+name = "sql_server"
+version = "0.1.0"
+authors = ["Ko Nakagawa <tsunekou1019@gmail.com>"]
+
+[dependencies]
+rusqlite = "*"
+time = "*"
+url = "*"
